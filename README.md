@@ -89,7 +89,7 @@ Follow these steps to set up and run the StepUp Job-Matching Platform:
    - Navigate to the directory where the Python file is located.
    - Open a terminal/command prompt and run the Python script:
      ```
-     python stepup_job_matching_platform.py
+     python StepUpJobMatching.py
      ```
    - The platform will launch, and you will see the home page.
 
